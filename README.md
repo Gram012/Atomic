@@ -1,5 +1,5 @@
 ### Welcome to Atomic!
-Atomic is an interactive 3D web viewer for hydrogenic electron orbitals. I began working on this project in early 2026 and published the first release in June of that year. What started out as a small project to model a hydrogen atom in order to retain some of my skills from my undergraduate physics degree has evolved into a vast learning opportunity.
+Atomic is an interactive 3D web viewer for hydrogenic electron orbitals that allows users to grab, pan, and zoom in a 3D environment while varying various atomic parameters. I began working on this project in early 2026 and published the first release in June of that year. What started out as a small project to model a hydrogen atom in order to retain some of my skills from my undergraduate physics degree has evolved into a vast learning opportunity.
 Through this project I have learned so much about 2D and 3D simulation (specifically Monte Carlo Point Clouds), elements of quantum mechanics that I never covered in my undergraduate degree, and a whole host of new python libraries and web hosting tools.
 
 ### What's Been Built (The "Basics"):
@@ -16,3 +16,7 @@ Through this project I have learned so much about 2D and 3D simulation (specific
 * Isosurfaces via marching cubes (skimage under Pyodide) — tentative
 * Hybrid orbitals (sp, sp², sp³ as fixed linear combinations)
 * Time-dependent superpositions — Σ cₙψₙ e^(−iEₙt/ℏ), with |ψ(t)|² animated in real time via the requestAnimationFrame loop
+* proper hoasting :)
+
+
+<img width="2560" height="1262" alt="Screenshot From 2026-06-24 13-22-06" src="https://github.com/user-attachments/assets/5b8fda2f-5df5-480d-b4d5-a36da8e53587" />
