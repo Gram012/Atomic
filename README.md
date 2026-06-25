@@ -20,3 +20,7 @@ Through this project I have learned so much about 2D and 3D simulation (specific
 
 
 <img width="2560" height="1262" alt="Screenshot From 2026-06-24 13-22-06" src="https://github.com/user-attachments/assets/5b8fda2f-5df5-480d-b4d5-a36da8e53587" />
+
+### Run the Project
+A quick note on running this on your own since I have not set up web hosting or packaged things cleanly into a desktop app as of June 2026. Simply download the repo, open the project in the terminal or an IDE of your choosing, and run `npm run dev`. Unfortunately you will have to deal with installing Node.js on your own if you have not
+already for the aforementioned reasons. If you are unsure how to do so, there are plenty of guides avalible on the internet for your operating system. If you would like to run the test suit or make modifications to the project, I assume I don't need to explain these things to you :P
